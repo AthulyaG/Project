@@ -1,1 +1,1 @@
-This assignment is regarding Git Branching!
+This assignment is regarding git branching.
