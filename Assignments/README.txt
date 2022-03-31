@@ -1,1 +1,0 @@
-This assignment is regarding git branching.
